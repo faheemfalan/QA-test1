@@ -1,4 +1,4 @@
-let num = 5;
+let num = 10;
 let fact = 1;
 
 for (let i = 1; i <= num; i++) {
@@ -7,7 +7,7 @@ for (let i = 1; i <= num; i++) {
 
 console.log(fact);
 
-for (let i = 1; i <= 20; i++) {
+for (let i = 1; i <= 50; i++) {
     if (i % 2 === 0) {
         console.log(i + " Even");
     } else {
