@@ -27,4 +27,4 @@ function findLargest(arr) {
     return largest;
 }
 
-console.log(findLargest([99, 5, 3, 100, 1]));
+console.log(findLargest(1[99, 5, 3, 500, 10,300]));
